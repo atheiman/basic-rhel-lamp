@@ -4,7 +4,7 @@ maintainer_email 'atheimanksu@gmail.com'
 license 'all_rights'
 description 'Installs/Configures awesome_customers'
 long_description 'Installs/Configures awesome_customers'
-version '0.3.1'
+version '0.3.2'
 
 depends 'apache2', '~> 3.1.0'
 depends 'iptables', '~> 1.0.0'
